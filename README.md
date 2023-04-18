@@ -4,7 +4,7 @@
 
 ## Description
 This project is a visual playground for the logistic regression algorithm. It allows you to experiment with the parameters of the neural network and the learning algorithm.<br />
-Here I used the Python programming language and the PyQt5 graphics library.<br />
+Here I used the Python programming language, NumPy and Matplotlib libraries, and the PyQt5 graphics library.<br />
 I did this project for educational purposes. I wanted to better understand how neural nets work, how they are trained, and how backpropagation works. So I implemented everything from scratch :)
 
 ## How to Install and Run the Project
